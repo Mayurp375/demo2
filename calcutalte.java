@@ -8,6 +8,7 @@ class calcutalte{
         System.out.println("welcom to uc");
         calcutalte.add(12, 013);
         number.Sub(12, 013);
+        number.mult(12, 13);
     }    
 }
 
